@@ -14,7 +14,7 @@ class Parent_1{
   public:
     Parent_1(int x){
       if (x == 1)
-        cout << "1) Parent class" << endl;
+        cout << "Parent class" << endl;
     }
 
 
@@ -30,7 +30,7 @@ class Child_1: public Parent_1{
   public:
     Child_1(int x): Parent_1(x){
       if (x == 1)
-        cout << "2) Child class" << endl;
+        cout << "Child class" << endl;
     }
 
 
@@ -46,7 +46,7 @@ class Parent_2{
   public:
     Parent_2(int x){
       if (x == 1)
-        cout << "1) Parent class" << endl;
+        cout << "Parent class" << endl;
     }
 
 
@@ -62,7 +62,7 @@ class Child_2: public Parent_2{
   public:
     Child_2(int x): Parent_2(x){
       if (x == 1)
-        cout << "2) Child class" << endl;
+        cout << "Child class" << endl;
     }
 
 
