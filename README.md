@@ -9,7 +9,7 @@ $ git clone https://github.com/victorsemipalatin/class-demonstration.git
 gcc version 12.2.0  
 
 ### Для ручной компиляции:  
-$ g++ Class_possibilities.cpp -o program  
+$ g++ class_possibilities.cpp -o program  
 $ ./program
 
 ### Пример вывода программы:  
