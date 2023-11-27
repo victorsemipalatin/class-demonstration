@@ -1,4 +1,5 @@
 #include <iostream>
+#include "class.cpp"
 
 
 int main(){
